@@ -29,7 +29,8 @@ Ensure you have the following installed on your system:
    ```
 3. Install dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install flask
+   
    ```
 4. Run the application:
    ```sh
