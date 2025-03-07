@@ -1,6 +1,7 @@
 # Plagiarism Detector
+The Plagiarism Detector is a user-friendly web application built with Flask that helps identify text similarities between two uploaded .txt files. Utilizing Python's SequenceMatcher module, it calculates and displays the percentage of plagiarism, providing an efficient way to compare documents for originality. The application features a simple interface for easy file uploads and quick results viewing, making it an ideal tool for educators, writers, and anyone concerned with content authenticity.
 
-```markdown
+markdown
 This is a Flask-based web application that detects plagiarism between two uploaded text files. It uses the `SequenceMatcher` module to compare text similarity and provides a plagiarism percentage.
 
 ## Features
@@ -8,7 +9,7 @@ This is a Flask-based web application that detects plagiarism between two upload
 - Calculates and displays the plagiarism percentage.
 - Simple web interface using Flask.
 
-## Installation
+## Installatio
 
 ### Prerequisites
 Ensure you have the following installed on your system:
